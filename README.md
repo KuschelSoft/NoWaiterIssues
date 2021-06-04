@@ -1,4 +1,4 @@
-# No Waiter Issue Reporting/Support
+# NoWaiter Issue Reporting/Support
 
 Did you **find a bug** or do you **want a feature** to be implemented? This repository is used to do exactly that! To save yourself time update NoWaiter to the latest version and check if the problem has been solved.
 - [How to update app from Playstore (Android)](https://support.google.com/googleplay/answer/113412?hl=en)
